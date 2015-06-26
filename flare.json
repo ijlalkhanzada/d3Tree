@@ -1,0 +1,117 @@
+{
+  "name":"Muhammad Ismaeel Khanzada",
+  "children":[
+    { "name": "Muhammad Bashir Khanzada",
+      "children": [{
+        "name": "Muhammad Tayyab Khanzada",
+        "children": [{
+          "name": "Muahammad Arsalan Khanzada",
+          "children": [{
+            "name": "Zia Fatima",
+            "size": 3938
+          }]
+        }, {
+          "name": "Muhammad Ijlal Khanzada",
+          "children": []
+        }, {
+          "name": "NagZah Parveen",
+          "children": []
+        }]
+      }  ,
+        {
+          "name": "Muhammad Tahir  Khanzada",
+          "children": [{
+            "name": "Muhammad Farhan Khanzada",
+            "size": 17010
+          }, {
+            "name": "Muhammad Furqan Khanzada",
+            "children": [{
+              "name": "Muhammad Huzefa Khanzada",
+              "size": 5090
+            }],
+
+            "size": 5842
+          },{
+            "name": "Ramsha",
+            "size": 5842
+          },{
+            "name": "Muhammad Saheem Khanzada",
+            "size": 5842
+          }
+          ]
+        },
+        {
+          "name": "Muhammad Arif Khanzada",
+          "children": [{
+            "name": "Muhammad Noman Khanzada",
+            "children": []
+          }
+          , {
+              "name": "Katrina",
+              "size": 1759
+            }, {
+              "name": "Kanwal",
+              "size": 2165
+            }, {
+              "name": "Aisha",
+              "size": 586
+            }, {
+              "name": "Muhammad Fezan Khanzada",
+              "size": 3331
+            }]
+        },
+        {
+          "name": "Muhammad Atif Khanzada",
+          "children": [{
+            "name": "Kanz e Zenab",
+            "size": 8833
+          }]
+        },
+        {
+          "name": "Muhammad Shouib Khanzada",
+          "children": [{
+            "name": "Muhammad Fasih Khanzada",
+            "size": 1082
+          }]
+        },
+        {
+          "name": "Muhammad Asif Khanzada",
+          "children": [{
+            "name": "Muhammad Wasif Khanzada",
+            "size": 1616
+          }, {
+            "name": "Warsha",
+            "size": 1027
+          }, {
+            "name": "Touba",
+            "size": 3891
+          }]
+        },
+        {
+          "name": "Tayyaba",
+          "children": [{
+            "name": "Abdul Rehman",
+            "size": 2105
+          }, {
+            "name": "Abdul Salam",
+            "size": 1316
+          }, {
+            "name": "Amjad Hussen",
+            "size": 3151
+          }, {
+            "name": "Jazim Hussen",
+            "size": 3770
+          }, {
+            "name": "Kanzul Iman",
+            "size": 2435
+          }]
+        }]},
+    { "name": "Muhammad Haroon Khanzada",
+      "children": []},
+    { "name": "Muhammad Naseer Khanzada",
+      "children": []},
+
+    { "name": "Khatoon B_B",
+      "children": []}
+  ]
+}
